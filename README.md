@@ -7,9 +7,9 @@
   <a href="mailto:masterdev09092@gmail.com"><img src="https://img.shields.io/badge/Email-masterdev09092%40gmail.com-0b1230?style=for-the-badge&logo=gmail&logoColor=white" alt="Email masterdev09092@gmail.com"></a>
 </p>
 
-<img src="assets/dragon.webp" alt="A masked swordsman in dark armor under the moon, a glowing blue dragon coiled around him" width="320" align="right">
-
 ## About me
+
+<img src="assets/dragon.webp" alt="A masked swordsman in dark armor under the moon, a glowing blue dragon coiled around him" width="320" align="right">
 
 I build **AI systems, automated trading bots and full-stack products**, with Java and Python at the core of my backend work. I work remotely and have shipped production work for clients in Japan, Brazil and Australia.
 
