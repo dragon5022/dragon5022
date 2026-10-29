@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" role="img" aria-labelledby="title">
+  <title id="title">dragon5022: Full-Stack &amp; AI Engineer, Java · Spring Boot · Kafka, Python · FastAPI · LLM systems, Automated trading bots, 24/7</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050a1f"/>
+      <stop offset="1" stop-color="#0e1d52"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="40%" cy="40%" r="65%">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#bcd2ff"/>
+    </radialGradient>
+    <linearGradient id="scale" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e3a8a" stop-opacity="0"/>
+      <stop offset=".35" stop-color="#3b82f6"/>
+      <stop offset=".7" stop-color="#93c5fd"/>
+      <stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+    <filter id="blur" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+    <filter id="halo" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="16"/></filter>
+    <clipPath id="frame"><rect width="880" height="240" rx="16"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .hello { font-size: 14px; font-weight: 600; letter-spacing: 3px; fill: #8fb3ff; }
+    .name { font-size: 50px; font-weight: 700; letter-spacing: 1px; fill: #f4f7ff; }
+    .role { font-size: 20px; fill: #c9d8ff; opacity: 0; animation: role 12s ease-in-out infinite both; }
+    .star { fill: #dbe7ff; animation: twinkle 4s ease-in-out infinite; }
+    .petal { fill: #5b9dff; opacity: 0; animation: drift 9s linear infinite; }
+    .flow { stroke-dasharray: 2 16; animation: flow 3s linear infinite; }
+    @keyframes role { 0% { opacity: 0; transform: translateY(8px); } 4%, 21% { opacity: 1; transform: none; } 25%, 100% { opacity: 0; transform: translateY(-8px); } }
+    @keyframes twinkle { 0%, 100% { opacity: .25; } 50% { opacity: 1; } }
+    @keyframes drift { 0% { opacity: 0; transform: translate(0, 0) rotate(0deg); } 15% { opacity: .9; } 100% { opacity: 0; transform: translate(-160px, 70px) rotate(220deg); } }
+    @keyframes flow { to { stroke-dashoffset: -36; } }
+    @media (prefers-reduced-motion: reduce) {
+      .role, .star, .petal, .flow { animation: none; }
+      .role.first { opacity: 1; }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="880" height="240" fill="url(#sky)"/>
+    <circle cx="34.6" cy="124.6" r="1.28" class="star" style="animation-delay:1.36s"/><circle cx="490.2" cy="130.6" r="0.81" class="star" style="animation-delay:1.03s"/><circle cx="375.4" cy="13.5" r="1.64" class="star" style="animation-delay:2.04s"/><circle cx="95.0" cy="132.2" r="1.08" class="star" style="animation-delay:0.62s"/><circle cx="450.7" cy="140.1" r="1.12" class="star" style="animation-delay:2.73s"/><circle cx="540.8" cy="202.5" r="1.51" class="star" style="animation-delay:2.61s"/><circle cx="396.1" cy="55.3" r="1.52" class="star" style="animation-delay:3.92s"/><circle cx="130.9" cy="83.8" r="1.26" class="star" style="animation-delay:3.03s"/><circle cx="34.3" cy="81.4" r="1.22" class="star" style="animation-delay:1.57s"/><circle cx="97.6" cy="146.7" r="1.69" class="star" style="animation-delay:2.92s"/><circle cx="553.8" cy="81.5" r="0.74" class="star" style="animation-delay:1.41s"/><circle cx="815.1" cy="13.7" r="0.58" class="star" style="animation-delay:4.00s"/><circle cx="483.5" cy="139.6" r="0.90" class="star" style="animation-delay:0.68s"/><circle cx="90.8" cy="124.4" r="0.77" class="star" style="animation-delay:0.80s"/><circle cx="255.5" cy="14.0" r="0.55" class="star" style="animation-delay:0.62s"/><circle cx="147.7" cy="150.8" r="1.48" class="star" style="animation-delay:0.73s"/><circle cx="806.7" cy="158.2" r="1.19" class="star" style="animation-delay:2.64s"/><circle cx="591.4" cy="81.6" r="1.16" class="star" style="animation-delay:0.65s"/><circle cx="444.2" cy="46.2" r="0.97" class="star" style="animation-delay:1.79s"/><circle cx="529.2" cy="112.4" r="0.89" class="star" style="animation-delay:3.87s"/><circle cx="262.7" cy="125.0" r="1.33" class="star" style="animation-delay:1.69s"/><circle cx="296.6" cy="121.4" r="0.88" class="star" style="animation-delay:0.08s"/><circle cx="244.2" cy="89.9" r="0.63" class="star" style="animation-delay:1.39s"/><circle cx="702.7" cy="140.1" r="1.19" class="star" style="animation-delay:2.08s"/><circle cx="413.3" cy="21.3" r="1.11" class="star" style="animation-delay:0.45s"/><circle cx="299.7" cy="184.2" r="0.96" class="star" style="animation-delay:2.25s"/><circle cx="863.9" cy="178.1" r="1.32" class="star" style="animation-delay:3.98s"/><circle cx="6.2" cy="81.4" r="1.49" class="star" style="animation-delay:3.70s"/><circle cx="105.7" cy="64.7" r="1.69" class="star" style="animation-delay:2.89s"/><circle cx="310.2" cy="95.6" r="0.83" class="star" style="animation-delay:0.02s"/><circle cx="839.1" cy="204.3" r="0.58" class="star" style="animation-delay:2.32s"/><circle cx="856.0" cy="150.8" r="0.64" class="star" style="animation-delay:3.33s"/><circle cx="404.1" cy="144.7" r="1.06" class="star" style="animation-delay:2.55s"/><circle cx="864.7" cy="152.1" r="1.17" class="star" style="animation-delay:0.63s"/><circle cx="615.5" cy="190.1" r="1.52" class="star" style="animation-delay:1.92s"/><circle cx="462.4" cy="20.6" r="1.66" class="star" style="animation-delay:0.07s"/><circle cx="139.2" cy="173.3" r="0.76" class="star" style="animation-delay:3.68s"/><circle cx="157.4" cy="72.0" r="0.93" class="star" style="animation-delay:2.48s"/><circle cx="815.5" cy="44.1" r="0.83" class="star" style="animation-delay:0.76s"/><circle cx="306.6" cy="127.3" r="1.52" class="star" style="animation-delay:0.13s"/><circle cx="582.0" cy="136.1" r="0.66" class="star" style="animation-delay:2.89s"/><circle cx="440.1" cy="48.9" r="1.54" class="star" style="animation-delay:0.92s"/><circle cx="245.2" cy="126.4" r="1.49" class="star" style="animation-delay:2.90s"/><circle cx="788.5" cy="120.2" r="1.56" class="star" style="animation-delay:2.93s"/><circle cx="751.6" cy="111.8" r="1.69" class="star" style="animation-delay:2.21s"/><circle cx="273.0" cy="98.3" r="1.12" class="star" style="animation-delay:3.48s"/>
+    <circle cx="760" cy="70" r="40" fill="#7fa8ff" opacity=".45" filter="url(#halo)"/>
+    <circle cx="760" cy="70" r="30" fill="url(#moon)"/>
+    <path d="M-40,214 C90,150 190,250 330,198 S560,118 680,170 S850,230 930,150" fill="none" stroke="#3b82f6" stroke-width="14" opacity=".45" filter="url(#blur)"/>
+    <path d="M-40,214 C90,150 190,250 330,198 S560,118 680,170 S850,230 930,150" fill="none" stroke="url(#scale)" stroke-width="3"/>
+    <path d="M-40,214 C90,150 190,250 330,198 S560,118 680,170 S850,230 930,150" fill="none" stroke="#e0ecff" stroke-width="2" class="flow"/>
+    <path d="M380,250 C470,200 560,236 640,206 S780,140 920,176" fill="none" stroke="#60a5fa" stroke-width="8" opacity=".3" filter="url(#blur)"/>
+    <path d="M380,250 C470,200 560,236 640,206 S780,140 920,176" fill="none" stroke="url(#scale)" stroke-width="1.5" opacity=".8"/>
+    <ellipse cx="658" cy="157" rx="5" ry="2.2" class="petal" style="animation-delay:0.0s"/><ellipse cx="803" cy="105" rx="5" ry="2.2" class="petal" style="animation-delay:1.3s"/><ellipse cx="475" cy="53" rx="5" ry="2.2" class="petal" style="animation-delay:2.6s"/><ellipse cx="705" cy="147" rx="5" ry="2.2" class="petal" style="animation-delay:3.9s"/><ellipse cx="494" cy="131" rx="5" ry="2.2" class="petal" style="animation-delay:5.2s"/><ellipse cx="775" cy="75" rx="5" ry="2.2" class="petal" style="animation-delay:6.5s"/><ellipse cx="742" cy="106" rx="5" ry="2.2" class="petal" style="animation-delay:7.8s"/>
+  </g>
+  <rect x="0.5" y="0.5" width="879" height="239" rx="16" fill="none" stroke="#1f2a5a"/>
+  <text x="48" y="74" class="hello">HI, I'M</text>
+  <text x="46" y="128" class="name">dragon5022</text>
+  <text x="48" y="168" class="role first" style="animation-delay:0s">Full-Stack &amp; AI Engineer</text>
+  <text x="48" y="168" class="role" style="animation-delay:3s">Java · Spring Boot · Kafka</text>
+  <text x="48" y="168" class="role" style="animation-delay:6s">Python · FastAPI · LLM systems</text>
+  <text x="48" y="168" class="role" style="animation-delay:9s">Automated trading bots, 24/7</text>
+</svg>

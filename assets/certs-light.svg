@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="198" viewBox="0 0 880 198" role="img" aria-labelledby="title desc">
+  <title id="title">Certifications timeline</title>
+  <desc id="desc">2019: Java Programming (Certification). 2021: AWS Certification (Amazon Web Services). 2023: Python Developer (Udemy).</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .tick { font-size: 12px; fill: #5f6890; font-variant-numeric: tabular-nums; }
+    .year { font-size: 12.5px; font-weight: 600; letter-spacing: 1px; fill: #46507a; }
+    .name { font-size: 15px; font-weight: 600; fill: #0b1230; }
+    .detail { font-size: 13px; fill: #46507a; }
+    .axis { stroke-dasharray: 1000; animation: draw 1.4s ease-out both; }
+    .node { opacity: 0; animation: rise .6s ease-out forwards; }
+    @keyframes draw { from { stroke-dashoffset: 1000; } to { stroke-dashoffset: 0; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .axis, .node { animation: none; opacity: 1; } }
+  </style>
+  <defs>
+    <radialGradient id="glow" cx="100%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#e4edfb"/>
+      <stop offset="1" stop-color="#f7f9fd"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="197" rx="16" fill="url(#glow)" stroke="#dbe3f1"/>
+  <line x1="64" y1="144" x2="816" y2="144" stroke="#dbe3f1" stroke-width="2" class="axis"/>
+  
+    <line x1="64" y1="140" x2="64" y2="148" stroke="#dbe3f1"/>
+    <text x="64" y="168" class="tick" text-anchor="middle">2019</text>
+    <line x1="171.42857142857142" y1="140" x2="171.42857142857142" y2="148" stroke="#dbe3f1"/>
+    <text x="171.42857142857142" y="168" class="tick" text-anchor="middle">2020</text>
+    <line x1="278.85714285714283" y1="140" x2="278.85714285714283" y2="148" stroke="#dbe3f1"/>
+    <text x="278.85714285714283" y="168" class="tick" text-anchor="middle">2021</text>
+    <line x1="386.2857142857143" y1="140" x2="386.2857142857143" y2="148" stroke="#dbe3f1"/>
+    <text x="386.2857142857143" y="168" class="tick" text-anchor="middle">2022</text>
+    <line x1="493.71428571428567" y1="140" x2="493.71428571428567" y2="148" stroke="#dbe3f1"/>
+    <text x="493.71428571428567" y="168" class="tick" text-anchor="middle">2023</text>
+    <line x1="601.1428571428571" y1="140" x2="601.1428571428571" y2="148" stroke="#dbe3f1"/>
+    <text x="601.1428571428571" y="168" class="tick" text-anchor="middle">2024</text>
+    <line x1="708.5714285714286" y1="140" x2="708.5714285714286" y2="148" stroke="#dbe3f1"/>
+    <text x="708.5714285714286" y="168" class="tick" text-anchor="middle">2025</text>
+    <line x1="816" y1="140" x2="816" y2="148" stroke="#dbe3f1"/>
+    <text x="816" y="168" class="tick" text-anchor="middle">2026</text>
+  
+    <g class="node" style="animation-delay:0.50s">
+      <line x1="64" y1="132" x2="64" y2="32" stroke="#dbe3f1"/>
+      <text x="76" y="44" class="year">2019</text>
+      <text x="76" y="66" class="name">Java Programming</text>
+      <text x="76" y="86" class="detail">Certification</text>
+      <circle cx="64" cy="144" r="8" fill="#2a78d6" stroke="#f7f9fd" stroke-width="3"/>
+    </g>
+    <g class="node" style="animation-delay:0.85s">
+      <line x1="278.85714285714283" y1="132" x2="278.85714285714283" y2="32" stroke="#dbe3f1"/>
+      <text x="290.85714285714283" y="44" class="year">2021</text>
+      <text x="290.85714285714283" y="66" class="name">AWS Certification</text>
+      <text x="290.85714285714283" y="86" class="detail">Amazon Web Services</text>
+      <circle cx="278.85714285714283" cy="144" r="8" fill="#2a78d6" stroke="#f7f9fd" stroke-width="3"/>
+    </g>
+    <g class="node" style="animation-delay:1.20s">
+      <line x1="493.71428571428567" y1="132" x2="493.71428571428567" y2="32" stroke="#dbe3f1"/>
+      <text x="505.71428571428567" y="44" class="year">2023</text>
+      <text x="505.71428571428567" y="66" class="name">Python Developer</text>
+      <text x="505.71428571428567" y="86" class="detail">Udemy</text>
+      <circle cx="493.71428571428567" cy="144" r="8" fill="#2a78d6" stroke="#f7f9fd" stroke-width="3"/>
+    </g>
+</svg>

@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="746" viewBox="0 0 880 746" role="img" aria-labelledby="title desc">
+  <title id="title">Skills: self-rated proficiency, 0 to 100</title>
+  <desc id="desc">Languages: Java 21 92, Python 3.12 90, TypeScript / JavaScript 88, SQL 82, Kotlin / Swift 62. Java ecosystem: Spring Boot / Spring Cloud 90, Hibernate / JPA 85, Maven &amp; Gradle 85, JUnit 5 / Mockito / Testcontainers 88, Apache Kafka 75. Python ecosystem: FastAPI / Django 88, Pandas / NumPy 85, SQLAlchemy / Alembic 80, pytest / Hypothesis 86, asyncio / Celery 74. Web &amp; mobile: Next.js / React 90, Tailwind CSS / GSAP / Three.js 82, React Native / Flutter 78, Unity / Cocos (mobile games) 72, WordPress / headless CMS 70. AI &amp; infrastructure: LLM APIs (OpenAI, Anthropic, Gemini) 88, Vector search / semantic caching 80, Docker &amp; Kubernetes 80, PostgreSQL / Redis 84, AWS / Vercel / GitHub Actions 80.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .sub { font-size: 13px; fill: #46507a; }
+    .group { font-size: 11.5px; font-weight: 600; letter-spacing: 1.2px; fill: #5f6890; }
+    .label { font-size: 13px; fill: #0b1230; }
+    .label2 { font-size: 12.5px; fill: #46507a; }
+    .value { font-size: 13px; font-weight: 600; fill: #0b1230; font-variant-numeric: tabular-nums; }
+    .kpi { font-size: 26px; font-weight: 600; fill: #0b1230; }
+    .bar { transform-box: fill-box; transform-origin: left center; animation: grow 1.1s cubic-bezier(.2,.7,.2,1) both; }
+    @keyframes grow { from { transform: scaleX(0); } }
+    @media (prefers-reduced-motion: reduce) { .bar { animation: none; } }
+  </style>
+  <defs>
+    <radialGradient id="glow" cx="100%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#e4edfb"/>
+      <stop offset="1" stop-color="#f7f9fd"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="745" rx="16" fill="url(#glow)" stroke="#dbe3f1"/>
+  <text x="28" y="40" class="sub">Self-rated proficiency, 0–100</text>
+<text x="28" y="80" class="group">LANGUAGES</text>
+    <text x="28" y="109" class="label">Java 21</text>
+    <text x="424" y="109" class="value" text-anchor="end">92</text>
+    <path d="M28,115H420A4,4 0 0 1 424,119A4,4 0 0 1 420,123H28Z" fill="#e2e9f6"/>
+    <path d="M28,115H388.32A4,4 0 0 1 392.32,119A4,4 0 0 1 388.32,123H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.00s"/>
+    <text x="28" y="143" class="label">Python 3.12</text>
+    <text x="424" y="143" class="value" text-anchor="end">90</text>
+    <path d="M28,149H420A4,4 0 0 1 424,153A4,4 0 0 1 420,157H28Z" fill="#e2e9f6"/>
+    <path d="M28,149H380.4A4,4 0 0 1 384.4,153A4,4 0 0 1 380.4,157H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.04s"/>
+    <text x="28" y="177" class="label">TypeScript / JavaScript</text>
+    <text x="424" y="177" class="value" text-anchor="end">88</text>
+    <path d="M28,183H420A4,4 0 0 1 424,187A4,4 0 0 1 420,191H28Z" fill="#e2e9f6"/>
+    <path d="M28,183H372.48A4,4 0 0 1 376.48,187A4,4 0 0 1 372.48,191H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.08s"/>
+    <text x="28" y="211" class="label">SQL</text>
+    <text x="424" y="211" class="value" text-anchor="end">82</text>
+    <path d="M28,217H420A4,4 0 0 1 424,221A4,4 0 0 1 420,225H28Z" fill="#e2e9f6"/>
+    <path d="M28,217H348.72A4,4 0 0 1 352.72,221A4,4 0 0 1 348.72,225H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.12s"/>
+    <text x="28" y="245" class="label">Kotlin / Swift</text>
+    <text x="424" y="245" class="value" text-anchor="end">62</text>
+    <path d="M28,251H420A4,4 0 0 1 424,255A4,4 0 0 1 420,259H28Z" fill="#e2e9f6"/>
+    <path d="M28,251H269.52A4,4 0 0 1 273.52,255A4,4 0 0 1 269.52,259H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.16s"/>
+<text x="456" y="80" class="group">JAVA ECOSYSTEM</text>
+    <text x="456" y="109" class="label">Spring Boot / Spring Cloud</text>
+    <text x="852" y="109" class="value" text-anchor="end">90</text>
+    <path d="M456,115H848A4,4 0 0 1 852,119A4,4 0 0 1 848,123H456Z" fill="#e2e9f6"/>
+    <path d="M456,115H808.4A4,4 0 0 1 812.4,119A4,4 0 0 1 808.4,123H456Z" fill="#2a78d6" class="bar" style="animation-delay:0.20s"/>
+    <text x="456" y="143" class="label">Hibernate / JPA</text>
+    <text x="852" y="143" class="value" text-anchor="end">85</text>
+    <path d="M456,149H848A4,4 0 0 1 852,153A4,4 0 0 1 848,157H456Z" fill="#e2e9f6"/>
+    <path d="M456,149H788.6A4,4 0 0 1 792.6,153A4,4 0 0 1 788.6,157H456Z" fill="#2a78d6" class="bar" style="animation-delay:0.24s"/>
+    <text x="456" y="177" class="label">Maven &amp; Gradle</text>
+    <text x="852" y="177" class="value" text-anchor="end">85</text>
+    <path d="M456,183H848A4,4 0 0 1 852,187A4,4 0 0 1 848,191H456Z" fill="#e2e9f6"/>
+    <path d="M456,183H788.6A4,4 0 0 1 792.6,187A4,4 0 0 1 788.6,191H456Z" fill="#2a78d6" class="bar" style="animation-delay:0.28s"/>
+    <text x="456" y="211" class="label">JUnit 5 / Mockito / Testcontainers</text>
+    <text x="852" y="211" class="value" text-anchor="end">88</text>
+    <path d="M456,217H848A4,4 0 0 1 852,221A4,4 0 0 1 848,225H456Z" fill="#e2e9f6"/>
+    <path d="M456,217H800.48A4,4 0 0 1 804.48,221A4,4 0 0 1 800.48,225H456Z" fill="#2a78d6" class="bar" style="animation-delay:0.32s"/>
+    <text x="456" y="245" class="label">Apache Kafka</text>
+    <text x="852" y="245" class="value" text-anchor="end">75</text>
+    <path d="M456,251H848A4,4 0 0 1 852,255A4,4 0 0 1 848,259H456Z" fill="#e2e9f6"/>
+    <path d="M456,251H749A4,4 0 0 1 753,255A4,4 0 0 1 749,259H456Z" fill="#2a78d6" class="bar" style="animation-delay:0.36s"/>
+<text x="28" y="306" class="group">PYTHON ECOSYSTEM</text>
+    <text x="28" y="335" class="label">FastAPI / Django</text>
+    <text x="424" y="335" class="value" text-anchor="end">88</text>
+    <path d="M28,341H420A4,4 0 0 1 424,345A4,4 0 0 1 420,349H28Z" fill="#e2e9f6"/>
+    <path d="M28,341H372.48A4,4 0 0 1 376.48,345A4,4 0 0 1 372.48,349H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.40s"/>
+    <text x="28" y="369" class="label">Pandas / NumPy</text>
+    <text x="424" y="369" class="value" text-anchor="end">85</text>
+    <path d="M28,375H420A4,4 0 0 1 424,379A4,4 0 0 1 420,383H28Z" fill="#e2e9f6"/>
+    <path d="M28,375H360.6A4,4 0 0 1 364.6,379A4,4 0 0 1 360.6,383H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.44s"/>
+    <text x="28" y="403" class="label">SQLAlchemy / Alembic</text>
+    <text x="424" y="403" class="value" text-anchor="end">80</text>
+    <path d="M28,409H420A4,4 0 0 1 424,413A4,4 0 0 1 420,417H28Z" fill="#e2e9f6"/>
+    <path d="M28,409H340.8A4,4 0 0 1 344.8,413A4,4 0 0 1 340.8,417H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.48s"/>
+    <text x="28" y="437" class="label">pytest / Hypothesis</text>
+    <text x="424" y="437" class="value" text-anchor="end">86</text>
+    <path d="M28,443H420A4,4 0 0 1 424,447A4,4 0 0 1 420,451H28Z" fill="#e2e9f6"/>
+    <path d="M28,443H364.56A4,4 0 0 1 368.56,447A4,4 0 0 1 364.56,451H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.52s"/>
+    <text x="28" y="471" class="label">asyncio / Celery</text>
+    <text x="424" y="471" class="value" text-anchor="end">74</text>
+    <path d="M28,477H420A4,4 0 0 1 424,481A4,4 0 0 1 420,485H28Z" fill="#e2e9f6"/>
+    <path d="M28,477H317.04A4,4 0 0 1 321.04,481A4,4 0 0 1 317.04,485H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.56s"/>
+<text x="456" y="306" class="group">WEB &amp; MOBILE</text>
+    <text x="456" y="335" class="label">Next.js / React</text>
+    <text x="852" y="335" class="value" text-anchor="end">90</text>
+    <path d="M456,341H848A4,4 0 0 1 852,345A4,4 0 0 1 848,349H456Z" fill="#e2e9f6"/>
+    <path d="M456,341H808.4A4,4 0 0 1 812.4,345A4,4 0 0 1 808.4,349H456Z" fill="#2a78d6" class="bar" style="animation-delay:0.60s"/>
+    <text x="456" y="369" class="label">Tailwind CSS / GSAP / Three.js</text>
+    <text x="852" y="369" class="value" text-anchor="end">82</text>
+    <path d="M456,375H848A4,4 0 0 1 852,379A4,4 0 0 1 848,383H456Z" fill="#e2e9f6"/>
+    <path d="M456,375H776.72A4,4 0 0 1 780.72,379A4,4 0 0 1 776.72,383H456Z" fill="#2a78d6" class="bar" style="animation-delay:0.64s"/>
+    <text x="456" y="403" class="label">React Native / Flutter</text>
+    <text x="852" y="403" class="value" text-anchor="end">78</text>
+    <path d="M456,409H848A4,4 0 0 1 852,413A4,4 0 0 1 848,417H456Z" fill="#e2e9f6"/>
+    <path d="M456,409H760.88A4,4 0 0 1 764.88,413A4,4 0 0 1 760.88,417H456Z" fill="#2a78d6" class="bar" style="animation-delay:0.68s"/>
+    <text x="456" y="437" class="label">Unity / Cocos (mobile games)</text>
+    <text x="852" y="437" class="value" text-anchor="end">72</text>
+    <path d="M456,443H848A4,4 0 0 1 852,447A4,4 0 0 1 848,451H456Z" fill="#e2e9f6"/>
+    <path d="M456,443H737.12A4,4 0 0 1 741.12,447A4,4 0 0 1 737.12,451H456Z" fill="#2a78d6" class="bar" style="animation-delay:0.72s"/>
+    <text x="456" y="471" class="label">WordPress / headless CMS</text>
+    <text x="852" y="471" class="value" text-anchor="end">70</text>
+    <path d="M456,477H848A4,4 0 0 1 852,481A4,4 0 0 1 848,485H456Z" fill="#e2e9f6"/>
+    <path d="M456,477H729.2A4,4 0 0 1 733.2,481A4,4 0 0 1 729.2,485H456Z" fill="#2a78d6" class="bar" style="animation-delay:0.76s"/>
+<text x="28" y="532" class="group">AI &amp; INFRASTRUCTURE</text>
+    <text x="28" y="561" class="label">LLM APIs (OpenAI, Anthropic, Gemini)</text>
+    <text x="424" y="561" class="value" text-anchor="end">88</text>
+    <path d="M28,567H420A4,4 0 0 1 424,571A4,4 0 0 1 420,575H28Z" fill="#e2e9f6"/>
+    <path d="M28,567H372.48A4,4 0 0 1 376.48,571A4,4 0 0 1 372.48,575H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.80s"/>
+    <text x="28" y="595" class="label">Vector search / semantic caching</text>
+    <text x="424" y="595" class="value" text-anchor="end">80</text>
+    <path d="M28,601H420A4,4 0 0 1 424,605A4,4 0 0 1 420,609H28Z" fill="#e2e9f6"/>
+    <path d="M28,601H340.8A4,4 0 0 1 344.8,605A4,4 0 0 1 340.8,609H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.84s"/>
+    <text x="28" y="629" class="label">Docker &amp; Kubernetes</text>
+    <text x="424" y="629" class="value" text-anchor="end">80</text>
+    <path d="M28,635H420A4,4 0 0 1 424,639A4,4 0 0 1 420,643H28Z" fill="#e2e9f6"/>
+    <path d="M28,635H340.8A4,4 0 0 1 344.8,639A4,4 0 0 1 340.8,643H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.88s"/>
+    <text x="28" y="663" class="label">PostgreSQL / Redis</text>
+    <text x="424" y="663" class="value" text-anchor="end">84</text>
+    <path d="M28,669H420A4,4 0 0 1 424,673A4,4 0 0 1 420,677H28Z" fill="#e2e9f6"/>
+    <path d="M28,669H356.64A4,4 0 0 1 360.64,673A4,4 0 0 1 356.64,677H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.92s"/>
+    <text x="28" y="697" class="label">AWS / Vercel / GitHub Actions</text>
+    <text x="424" y="697" class="value" text-anchor="end">80</text>
+    <path d="M28,703H420A4,4 0 0 1 424,707A4,4 0 0 1 420,711H28Z" fill="#e2e9f6"/>
+    <path d="M28,703H340.8A4,4 0 0 1 344.8,707A4,4 0 0 1 340.8,711H28Z" fill="#2a78d6" class="bar" style="animation-delay:0.96s"/>
+<text x="456" y="532" class="group">AT A GLANCE</text>
+    <rect x="456" y="548" width="192" height="79" rx="10" fill="#e2e9f6" fill-opacity="0.55"/>
+    <text x="472" y="586" class="kpi">6+</text>
+    <text x="472" y="608" class="label2">Years coding</text>
+    <rect x="660" y="548" width="192" height="79" rx="10" fill="#e2e9f6" fill-opacity="0.55"/>
+    <text x="676" y="586" class="kpi">30+</text>
+    <text x="676" y="608" class="label2">Sites &amp; apps shipped</text>
+    <rect x="456" y="639" width="192" height="79" rx="10" fill="#e2e9f6" fill-opacity="0.55"/>
+    <text x="472" y="677" class="kpi">12</text>
+    <text x="472" y="699" class="label2">Mobile games live</text>
+    <rect x="660" y="639" width="192" height="79" rx="10" fill="#e2e9f6" fill-opacity="0.55"/>
+    <text x="676" y="677" class="kpi">40–70%</text>
+    <text x="676" y="699" class="label2">LLM token cost saved</text>
+</svg>
